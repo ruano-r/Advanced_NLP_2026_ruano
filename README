@@ -1,10 +1,10 @@
-Data files should be in a folder called data, which in turn is in the same level as the project file (one level above the notebook file).
+For the relative paths to work, folders 'data' and 'models' should be in the level above the directory of this project. e.g. '../data/filename'
 
-predictions are also added to the data folder
+The train, dev and test data can be downloaded from https://github.com/UniversalPropositions/UP-1.0/tree/master/UP_English-EWT
+
+Each assignement has a final ready to use function, to which one may pass a sentence in tokenized in strings, the binary position of the target verb in said sentence,
+and the model adn vectorizer or tokenizer.
 
 
-paths are relative
-
-some code is inspired or taken from ML notebooks
 
 

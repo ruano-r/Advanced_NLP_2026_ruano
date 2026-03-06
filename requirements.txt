@@ -1,0 +1,14 @@
+python 3.13.3
+scikit-learn
+ipykernel
+spacys
+markdown
+regex
+requests
+matplotlib
+transformers 
+seqeval 
+evaluate
+transformers
+pytorch
+datasets

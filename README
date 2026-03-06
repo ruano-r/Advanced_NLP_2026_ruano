@@ -1,0 +1,10 @@
+Data files should be in a folder called data, which in turn is in the same level as the project file (one level above the notebook file).
+
+predictions are also added to the data folder
+
+
+paths are relative
+
+some code is inspired or taken from ML notebooks
+
+

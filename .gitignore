@@ -1,3 +1,32 @@
+# Model files
+*.bin
+*.pt
+*.safetensors
+models/
+
+# Data files
+*.tsv
+*.csv
+*.json
+*.conllu
+data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Environment
+.env
+venv/
+*.egg-info/
+
+
+
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
